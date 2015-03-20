@@ -1,3 +1,8 @@
+#set max upload file size
+php_value upload_max_filesize 128M
+
+#set max post size
+php_value post_max_size 128M
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
