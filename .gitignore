@@ -1,6 +1,16 @@
+.htaccess
 /shared
 /local-config.php
 /sql-dump-*.sql
 /db-sync
 /content/upgrade/
 .DS_Store
+/content/backup-db/
+/content/themes/swype/css/app.css
+/content/cache/
+/content/advanced-cache.php
+/content/wp-cache-config.php
+/content/w3tc-config/
+/content/plugins/w3tc-wp-loader.php
+/content/db.php
+/wp
